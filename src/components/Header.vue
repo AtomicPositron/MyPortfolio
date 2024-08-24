@@ -1,10 +1,11 @@
 <template>
   <div
     id="body"
-    class="flex xl:flex-row gap-10 w-full xl:w-auto h-[45rem] bg-cover bg-center bg-no-repeat xl:h-[30rem] xl:mt-36 xl:mb-36 flex-col xl:bg-none bg-[url('../../wonder_1694098702783.jpg')]"
+    class="flex xl:flex-row gap-10 w-full xl:w-auto h-[45rem] bg-cover bg-center bg-no-repeat xl:h-[30rem] xl:mt-36 xl:mb-36 flex-col xl:bg-none bg-[url('/wonder_1694098702783.jpg')]"
   >
     <div
-      class="hidden xl:block xl:bg-[url('../../wonder_1694098702783.jpg')] w-72 h-72 bg-slate-950 bg-cover rounded-full my-14"
+      class="hidden xl:block xl:bg-[url('/wonder_1694098702783.jpg')] w-72 h-72 bg-slate-950 bg-cover rounded-full my-14"
+
     ></div>
     <div
       id="desc"
