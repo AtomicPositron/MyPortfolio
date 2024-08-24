@@ -22,7 +22,9 @@
         </p>
       </div>
     </div>
-    <button class="mt-36 bg-[#1E1E1E] transition-all hover:bg-black w-40 rounded-lg p-5">See more</button>
+        <a href="https://github.com/MichaelIbia12">
+     <button class="mt-36 bg-[#1E1E1E] transition-all hover:bg-black w-40 rounded-lg p-5">See more</button>
+    </a>
   <div id="underline" class="w-6/12 mt-36 h-1 opacity-60 rounded bg-[#ffffff] "></div>
   
   </div>
